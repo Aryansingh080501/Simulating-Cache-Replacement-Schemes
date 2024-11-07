@@ -1,4 +1,4 @@
-# Page Replacement Algorithms in C++
+# Simulating Cache Replacement Algorithms in C++
 
 ## Objective
 
